@@ -1,0 +1,4 @@
+Add REG_DWORD values to HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced
+
+Start_JumpListItems = 15 (decimal)
+JumpListItems_Maximum = 15 (decimal)
